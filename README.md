@@ -14,6 +14,10 @@ This is a simple frontend authentication interface built with **React 19**, **Vi
 - Axios
 - React Icons
 
+## Try to login with
+- email: jaichandaliya@gmail.com
+- password: troxinn
+
 ## 📂 Project Structure
 
 ```
